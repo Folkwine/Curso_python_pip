@@ -25,6 +25,8 @@
 # Icon must end with two \r
 Icon
 
+# images(png)
+*.png
 
 # Thumbnails
 ._*
